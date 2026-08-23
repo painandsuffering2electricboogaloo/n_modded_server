@@ -110,9 +110,7 @@
         https://cdn.modrinth.com/data/YOs4tZea/versions/73U02HbA/xercapaint-neoforge-1.21.1-2.0.1.jar
         https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar";
       "CF_API_KEY" = (builtins.readFile ./cf-api-key);
-      "CURSEFORGE_FILES" =
-        "antique-atlas:6849155
-        cirrus:8689121";
+      "CURSEFORGE_FILES" = "antique-atlas:6849155";
       "RCON_CMDS_FIRST_CONNECT" = "gamerule doFireTick true";
       "RCON_CMDS_LAST_DISCONNECT" = "gamerule doFireTick false";
     };
