@@ -1,6 +1,7 @@
 .cache/
 .sable/
 config/chunky/tasks/
+config/packetfixer.properties
 config/spark/tmp/
 config/spark/tmp-client/
 config/structurify/
