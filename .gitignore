@@ -10,6 +10,7 @@ libraries/
 local/
 logs/
 mods/
+world/advancements/
 world/DIM-1/
 world/DIM1/
 world/data/
@@ -19,8 +20,12 @@ world/level.dat
 world/level.dat_old
 world/lss-lod/
 world/mfix_stronghold_cache_v2.nbt
+world/playerdata/
+world/poi/
 world/region/
+world/serverconfig/readme.txt
 world/session.lock
+world/stats/
 world/streamsreflowing/
 world/sublevels/
 .curseforge-files-manifest.json
@@ -38,4 +43,5 @@ run.sh
 server.properties
 user_jvm_args.txt
 usercache.json
+usernamecache.json
 whitelist.json
