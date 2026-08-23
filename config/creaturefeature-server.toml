@@ -1,0 +1,4 @@
+#Dreamweavers only spawn Nothings, Endermen and themselves.
+endreamweaver = false
+#Weakens the rotation of Saint Solis' Stars
+pathogen = false

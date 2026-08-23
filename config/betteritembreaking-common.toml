@@ -1,0 +1,13 @@
+[server]
+	#You may need to restart the game or the world tp apply the settings
+	#Play vanilla breaking effect when an item becomes broken.
+	breaking_effect = true
+	#Disable experience cost when repairing items on anvil.
+	no_repair_xp_cost = false
+	#Crafting and combine with broken items.
+	craft_and_combine_with_broken_item = false
+	#Using broken items as repair materials on anvil.
+	broken_item_as_material_on_anvil = false
+	#Repairing broken items by combining them with the same item on anvil.
+	#Enable this only if every item has another repair method.
+	same_item_repair_on_anvil = true
