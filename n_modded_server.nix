@@ -33,7 +33,7 @@
       "NEOFORGE_VERSION" = "21.1.248";
       "MEMORY" = "16384M";
       "MAX_PLAYERS" = "32";
-      "MOTD" = ":(";
+      "MOTD" = "o/";
       "USE_MEOWICE_FLAGS" = "true";
       "USE_MEOWICE_GRAALVM_FLAGS" = "true";
       "DIFFICULTY" = "3";
