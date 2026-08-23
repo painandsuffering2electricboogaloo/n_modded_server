@@ -154,7 +154,7 @@
 	#-------------------------------------------
 	#Default: true
 	#-------------------------------------------
-	"Boolean: itemNeeded" = true
+	"Boolean: itemNeeded" = false
 	#
 	############################################
 	#Whether to remember last open browsing position and zoom level for each dimension in every atlas.
@@ -176,7 +176,7 @@
 	#-------------------------------------------
 	#Default: false
 	#-------------------------------------------
-	"Boolean: minimap" = false
+	"Boolean: minimap" = true
 	#
 	############################################
 	#Whether to add local marker for the spot where the player died.

@@ -1,6 +1,9 @@
 .cache/
 .sable/
+config/chunky/tasks/
+config/spark/tmp/
 config/spark/tmp-client/
+config/structurify/
 crash-reports/
 defaultconfigs/
 libraries/

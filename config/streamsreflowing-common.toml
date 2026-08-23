@@ -218,7 +218,7 @@ welcomeMessage = true
 	#(bed / waterline / bank blocks per biome) instead of leaving whatever the cut exposed.
 	#  true = on (default).  false = off (raw cut banks).
 	#Carve-only: applies to new chunks.
-	customBanks = true
+	customBanks = false
 	#
 	#How far (blocks) from the water's edge the extra flora reaches; density fades out to this edge.
 	#  HIGHER = a wider planted band.  LOWER = hugs the shoreline.
@@ -248,7 +248,7 @@ welcomeMessage = true
 	#("somemod:*" or just "somemod"). (You can also add biomes to the datapack tag
 	##streamsreflowing:no_streams; both are honoured.) Carve-only: applies to NEW chunks; a stream
 	#crossing a blacklisted biome simply is not carved inside it. Default empty.
-	streamBiomeBlacklist = "terralith:yellowstone,terrestria:caldera"
+	streamBiomeBlacklist = "terralith:yellowstone,terrestria"
 	#
 	#Bank-grass density (PERCENT): at the water's edge, the chance a near-water column gets a simple
 	#grass / fern / flower; fades to 0 at floraRadius. (Independent of the biome-boost above.)
