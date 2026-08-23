@@ -34,7 +34,6 @@
       "MEMORY" = "16384M";
       "MAX_PLAYERS" = "32";
       "MOTD" = ":)";
-      "ICON" = "/data/icon.png";
       "USE_MEOWICE_FLAGS" = "true";
       "USE_MEOWICE_GRAALVM_FLAGS" = "true";
       "DIFFICULTY" = "3";
