@@ -15,7 +15,9 @@ world/advancements/
 world/DIM-1/
 world/DIM1/
 world/data/
+world/deaths/
 world/entities/
+world/fieldguide_progress/
 world/kubejs_persistent_data.nbt
 world/level.dat
 world/level.dat_old

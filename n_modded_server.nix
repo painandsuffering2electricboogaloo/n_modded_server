@@ -36,7 +36,7 @@
       "MOTD" = "o/";
       "USE_MEOWICE_FLAGS" = "true";
       "USE_MEOWICE_GRAALVM_FLAGS" = "true";
-      "DIFFICULTY" = "3";
+      "DIFFICULTY" = "2";
       "SPAWN_PROTECTION" = "0";
       "REGION_FILE_COMPRESSION" = "lz4";
       "OPS" =
