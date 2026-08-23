@@ -17,7 +17,7 @@
   virtualisation.oci-containers.containers."n_modded_server" = {
     autoStart = false;
     user = "nix";
-    image = "itzg/minecraft-server:java21-graalvm";
+    image = "docker.io/itzg/minecraft-server:java21-graalvm";
     ports = [
       "25565:25565/tcp"
       "25565:25565/udp"
