@@ -2,6 +2,7 @@
 .sable/
 config/chunky/tasks/
 config/packetfixer.properties
+config/spark/activity.json
 config/spark/tmp/
 config/spark/tmp-client/
 config/structurify/
@@ -11,6 +12,7 @@ libraries/
 local/
 logs/
 mods/
+schematics/uploaded/
 world/advancements/
 world/DIM-1/
 world/DIM1/
